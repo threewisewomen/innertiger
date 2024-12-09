@@ -1,0 +1,61 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+.vs/
+
+# Rider
+.idea/
+
+# Files built by the compiler
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.lib
+*.log
+*.obj
+*.rdoc
+*.sdf
+*.swp
+*.tlog
+*.tmp
+*.vscode
+*.vscode/*
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Publish Folders
+publish/
+Publish/
+
+# Crash Reports
+*.crash
+
+# Backup Files
+*.bak
+
+# Recycle Bin
+*.recycle
+
+# Temporary Files
+~$*
+*.tmp
+*.temp
