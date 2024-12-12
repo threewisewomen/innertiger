@@ -14,7 +14,12 @@ class Program
             switch (result)
             {
                 case 1:
+                    Console.WriteLine("Lists - Finding Distance");
                     new Day1().FindingDistance();
+                    break;
+                case 2:
+                    Console.WriteLine("Lists - Finding Distance");
+                    new Day2().SafeOrNotSafe();
                     break;
                 default:
                     Console.WriteLine("Challenge for this day is not implemented yet.");
